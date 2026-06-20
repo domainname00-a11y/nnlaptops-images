@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="NN Laptops product image coming soon">
+  <rect width="1200" height="900" fill="#f4f4f7"/>
+  <g fill="none" stroke="#c4c7d2" stroke-width="10" stroke-linejoin="round" stroke-linecap="round">
+    <!-- laptop base -->
+    <path d="M360 540 h480 a18 18 0 0 1 18 18 v150 h-516 v-150 a18 18 0 0 1 18 -18 z"/>
+    <!-- screen -->
+    <rect x="402" y="300" width="396" height="240" rx="16"/>
+    <!-- keyboard hint -->
+    <line x1="318" y1="708" x2="882" y2="708"/>
+  </g>
+  <circle cx="600" cy="420" r="34" fill="none" stroke="#c4c7d2" stroke-width="10"/>
+  <text x="600" y="800" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" fill="#9aa0ad">NN Laptops</text>
+  <text x="600" y="848" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#b3b8c4">Image coming soon</text>
+</svg>
